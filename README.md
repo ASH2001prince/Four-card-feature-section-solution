@@ -4,8 +4,8 @@
 
 ### Links
 
-- Solution URL: [https://github.com/ASH2001prince/social-proof-section-solution.git]
-- Live Site URL: [https://ash2001prince.github.io/social-proof-section-solution/]
+- Solution URL: [https://github.com/ASH2001prince/Four-card-feature-section-solution.git]
+- Live Site URL: [https://ash2001prince.github.io/Four-card-feature-section-solution/]
 
 ### Built with
 
