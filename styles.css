@@ -70,7 +70,8 @@ header{
     border-top: 3px solid;
     margin: 20px;
     background-color: var(--white);
-    box-shadow: 1px 1px 10px 0px var(--Grayish-Blue);
+    box-shadow: 5px 5px 15px 5px rgb(0 0 0 / 5%);
+    border-radius: 14px;
 }
 .card.first{
     border-top-color: var(--Cyan);
